@@ -1,0 +1,10 @@
+{
+    "clientid": "client id",
+    "largeimage": "large img name",
+    "largetext": "large text",
+    "details": "details",
+    "button1": "first button name",
+    "url1": "url on first button",
+    "button2": "second button name",
+    "url2": "url on second button"
+}
